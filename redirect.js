@@ -12,16 +12,19 @@ function GetURLParameter(sParam) {
 }
 
 async function RedirectTo(redir) {
-    console.log(redir);
     if (redir.length < 5) {
         return;
     }
-    console.log(MAP_REPO + redir.substring(0, 2) + ".map.yml");
     fetch(MAP_REPO + redir.substring(0, 2) + ".map.yml")
         .then(res => res.text())
         .then(textString => {
+            if (!textString) {
+                return;
+            }
             mapping = YAML.parse(textString);
-            console.log(mapping[redir]);
+            if (!mapping) {
+                return;
+            }
             window.location.href = mapping[redir];
         });
 }
