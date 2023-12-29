@@ -20,7 +20,9 @@ async function RedirectTo(redir) {
     fetch(MAP_REPO + redir.substring(0, 2) + ".map.yml")
         .then(res => res.text())
         .then(textString => {
-            console.log(textString);
+            mapping = YAML.parse(textString);
+            console.log(mapping[redir]);
+            window.location.href = mapping[redir];
         });
 }
 
