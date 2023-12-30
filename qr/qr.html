@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QR Code Generator</title>
+    <script type="text/javascript" src="qrcode.js"></script>
+    <script type="text/javascript" src="qr.js"></script>
+    <style>
+        #qrcode {
+            display: grid;
+            place-items: center;
+            row-gap: 50px;
+            column-gap: 50px;
+            grid-template-columns: repeat(8, 1fr);
+        }
+    </style>
+</head>
+
+<body>
+    <form id="form" action="javascript:GenerateQRCodes(start.value, end.value)">
+        <label for="start">Start From Code:</label>
+        <input type="text" id="start" name="start"><br><br>
+        <label for="end">End At Code:</label>
+        <input type="text" id="end" name="end"><br><br>
+        <input type="submit" value="Submit">
+    </form>
+    <div id="qrcode"></div>
+
+</body>
+
+</html>
