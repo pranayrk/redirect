@@ -9,12 +9,17 @@
     <script type="text/javascript" src="qrcode.js"></script>
     <script type="text/javascript" src="qr.js"></script>
     <style>
-        #qrcode {
+        #qrcodes {
             display: grid;
             place-items: center;
-            row-gap: 50px;
+            row-gap: 10px;
             column-gap: 50px;
             grid-template-columns: repeat(8, 1fr);
+        }
+
+        .qrcode {
+            border: 2px solid black;
+            padding: 20px;
         }
     </style>
 </head>
@@ -27,7 +32,7 @@
         <input type="text" id="end" name="end"><br><br>
         <input type="submit" value="Submit">
     </form>
-    <div id="qrcode"></div>
+    <div id="qrcodes"></div>
 
 </body>
 

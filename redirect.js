@@ -11,11 +11,17 @@ function GetURLParameter(sParam) {
     }
 }
 
-async function RedirectTo(redir) {
+async function RedirectTo(redirFull) {
+    if (!redirFull) {
+        return;
+    }
+    const series = redirFull.substring(0, 1);
+    const redir = redirFull.substring(1,);
     if (redir.length < 5) {
         return;
     }
-    fetch(MAP_REPO + redir.substring(0, 2) + ".map.yml")
+    console.log(MAP_REPO + series + "/" + redir.substring(0, 2) + ".map.yml");
+    fetch(MAP_REPO + series + "/" + redir.substring(0, 2) + ".map.yml")
         .then(res => res.text())
         .then(textString => {
             if (!textString) {
