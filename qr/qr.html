@@ -25,11 +25,13 @@
 </head>
 
 <body>
-    <form id="form" action="javascript:GenerateQRCodes(start.value, end.value)">
+    <form id="form" action="javascript:GenerateQRCodes(series.value,start.value, end.value)" autocomplete="off">
+        <label for="series">Series:</label>
+        <input type="text" id="series" name="series"><br><br>
         <label for="start">Start From Code:</label>
-        <input type="text" id="start" name="start"><br><br>
+        <input type="number" id="start" name="start"><br><br>
         <label for="end">End At Code:</label>
-        <input type="text" id="end" name="end"><br><br>
+        <input type="number" id="end" name="end"><br><br>
         <input type="submit" value="Submit">
     </form>
     <div id="qrcodes"></div>

@@ -1,4 +1,9 @@
-async function GenerateQRCodes(start, end) {
+async function GenerateQRCodes(series, start, end) {
+    if (!series && series.length != 1) {
+        alert("Check series");
+        return;
+    }
+
     if (isNaN(start) || isNaN(end)) {
         alert("Check numbers");
         return;
@@ -26,10 +31,10 @@ async function GenerateQRCodes(start, end) {
         div_i.id = "div-" + i;
         div_i.className = "qrcode";
         QrDiv.appendChild(div_i);
-        div_i.innerHTML = "<p style=\"text-align:center;\">" + i + "</p>";
+        div_i.innerHTML = "<p style=\"text-align:center;\">" + series + i + "</p>";
 
         let qrcode = new QRCode('div-' + i, {
-            text: "https://pranayrk.github.io/redirect/?redirect=" + i,
+            text: "https://pranayrk.github.io/redirect/?redirect=" + series + i,
             width: 128,
             height: 128,
             colorDark: "#000000",
@@ -39,5 +44,4 @@ async function GenerateQRCodes(start, end) {
         await new Promise(r => setTimeout(r, 200));
     }
     alert("done");
-
 }
