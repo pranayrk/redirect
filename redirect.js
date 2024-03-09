@@ -61,6 +61,10 @@ async function RedirectTo(redirFull) {
                 }
                 if(redirectTo instanceof Object) {
                     replaceHTML = "";
+                    if('link' in redirectTo) {
+                        window.location.href = redirectTo['link'];
+                        return;
+                    }
                     if('title' in redirectTo) {
                         replaceHTML += "<h2 id=\"title\">" + redirectTo['title'].trim() + "</h2>"
                     }

@@ -1,38 +1,91 @@
-10000: https://pranayrk.github.io/redirect/
 10001: 
-    - https://www.reddit.com/
-    - name: Youtube
-      link: https://www.youtube.com/
-10002:
-  title: Test
-  links:
-    - name: Oliver Boeing
-      link: https://www.youtube.com/watch?v=Q8oCilY4szc
-    - https://www.youtube.com/watch?v=LuOLBtowI2E
+    name: Terence Tao, Machine Assisted Proof
+    link: https://youtube.com/watch?v=AayZuuDDKP0
+10002: 
+    name: Veritasium, Black Scholes Equation
+    link: https://www.youtube.com/watch?v=A5w-dEgIU1M
 10003:
+    name: Equally spacing points on a sphere
+    link: https://www.youtube.com/watch?v=c-6DV4ZyCdo
 10004:
+    name: Borcherds, Lectures on Lie Groups
+    link: https://www.youtube.com/playlist?list=PL8yHsr3EFj53RWBkiHKoOsTw-dGHAoJ-h
 10005:
+    name: Lie Theory for the Roboticist
+    link: https://www.youtube.com/watch?v=nHOcoIyJj2o
 10006:
+    name: Mathematics of Neural Networks
+    link: https://www.youtube.com/watch?v=b7NnMZPNIXA
 10007:
+    title: Symbolic Dynamics and Applications
+    links: 
+        - name: Introduction to Symbolic Dynamics
+          link: https://www.youtube.com/watch?v=ZHPJ_KIZ4vI
+        - name: Superposition, Sudoku, Wave Function Collapse
+          link: https://www.youtube.com/watch?v=2SuvO4Gi7uY
+        - name: Wave Function for Procedural Terrain
+          link: https://www.youtube.com/watch?v=20KHNA9jTsE
+        - name: Ant and Slime Simulation
+          link: https://www.youtube.com/watch?v=X-iSQQgOd1A
+        - name: Tiling, the Infinite Pattern that never repeats
+          link: https://www.youtube.com/watch?v=48sCx-wBs34&t
 10008:
+    name: Bifurcation Analysis of Nonlinear System of Differential Equations
+    link: https://www.youtube.com/watch?v=w2YPNC7O-O0
 10009:
+    name: Green's Functions Theory
+    link: https://www.youtube.com/watch?v=UJjlvVJHwhs
 10010:
+    name: WhatIsMath, Playlist on Differential Geometry
+    link: https://www.youtube.com/playlist?list=PLXo8Tdaw0czOWyRD-esa6mNajlPZnjHQs
 10011:
+    name: Cannon-Thurston maps, naturally occurring space filling curves
+    link: https://www.youtube.com/watch?v=FpeeFcK3lTk
 10012:
-10013:
+    name: What is Lie Theory, A big picture
+    link: https://www.youtube.com/watch?v=ZRca3Ggpy_g
+10013: 
+    name: Why Compactness matters
+    link: https://www.youtube.com/watch?v=td7Nz9ATyWY
 10014:
+    name: Ramanujan's Master Theorem and Fresnel Integrals
+    link: https://www.youtube.com/watch?v=oT20UwCQ-Vg
 10015:
+    name: Art of Linear Programming
+    link: https://www.youtube.com/watch?v=E72DWgKP_1Y
 10016:
+    name: How the axiom of choice gives sizeless sets
+    link: https://www.youtube.com/watch?v=hcRZadc5KpI
 10017:
+    name: Queuing Theory and Poisson Process
+    link: https://www.youtube.com/watch?v=rBIQmwaoZfs
 10018:
+    name: Category Theory for Neuroscience 
+    link: https://www.youtube.com/watch?v=4GJ4UQZvCNM
 10019:
+    name: Proof for Basel Problem, Apostol
+    link: https://www.youtube.com/watch?v=RNHULHp03FU
 10020:
+    name: Generating Primes through a recurrence relation
+    link: https://www.youtube.com/watch?v=OpaKpzMFOpg
 10021:
+    name: Turning a sphere inside out
+    link: https://www.youtube.com/watch?v=OI-To1eUtuU
 10022:
+    name: Introduction to Geometric Algebra
+    link: https://www.youtube.com/watch?v=60z_hpEAtD8
 10023:
+    name: Intuition behind Gauss Divergence Theorem
+    link: https://www.youtube.com/watch?v=zZqxbwl3Dno
 10024:
+    name: How Maxwells Equations led to Vector Analysis
+    link: https://www.youtube.com/watch?v=M12CJIuX8D4
 10025:
+    name: Transforming four Maxwells equations to two
+    link: https://www.youtube.com/watch?v=J7-vJrRxR40
 10026:
+    name: How to unify Logic and Arithmetic 
+    link: https://www.youtube.com/watch?v=niqqm1DRTkE
 10027:
 10028:
 10029:
