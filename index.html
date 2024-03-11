@@ -27,12 +27,48 @@
         #links li {
             padding: 5px;
         }
+        #redirform {
+            position: absolute;
+            width: 80%;
+            height: 30%;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+        }
+        #redirform #redir {
+            position: relative;
+            width: 100%;
+            height: 40%;
+            top: 0px;
+            border: 2px solid black;
+            border-radius: 10px;
+            outline: none;
+            font-size: 8vh;
+            text-align: center;
+        }
+        
+        #redirform #submit {
+            position: relative;
+            display: inline-block;
+            left: 50%;
+            margin-top: 20px;
+            height: 60%;
+            aspect-ratio: 1;
+            border-radius: 50%;
+            transform: translate(-50%, 0);
+            background-color: #373F51;
+            outline: none;
+        }
+        
     </style>
 
 </head>
 
 <body>
-    Simple Redirect Utility
+<form id="redirform" action="javascript:RedirectTo(redir.value)">
+    <input type="text" id="redir" name="redir" placeholder="" autofocus autocomplete="off">
+    <input type="submit" id="submit" value="">
+</form>
 </body>
 
 </html>
