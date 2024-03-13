@@ -81,69 +81,193 @@
     name: How Maxwells Equations led to Vector Analysis
     link: https://www.youtube.com/watch?v=M12CJIuX8D4
 10025:
-    name: Transforming four Maxwells equations to two
-    link: https://www.youtube.com/watch?v=J7-vJrRxR40
-10026:
     name: How to unify Logic and Arithmetic 
     link: https://www.youtube.com/watch?v=niqqm1DRTkE
+10026:
+    name: Transforming four Maxwells equations to two
+    link: https://www.youtube.com/watch?v=J7-vJrRxR40
 10027:
+    name: What haunts statisticians at night
+    link: https://www.youtube.com/watch?v=SGGLkrJa9_w
 10028:
+    name: Calculus of Inverse Functions
+    link: https://www.youtube.com/watch?v=4vbXadolbOE
 10029:
+    name: Quick and Easy Voting for normal people
+    link: https://www.youtube.com/watch?v=orybDrUj4vA
 10030:
+    name: The Beauty of Graph Theory
+    link: https://www.youtube.com/watch?v=oXcCAAEDte0
 10031:
+    name: The most important skill in statistics
+    link: https://www.youtube.com/watch?v=r7cn3WS5x9c
 10032:
+    name: How to study math like professional mathematicians, remembering theorems
+    link: https://www.youtube.com/watch?v=8TOiO5YlRUw
 10033:
+    name: All of Calculus 3 in 8 mins
+    link: https://www.youtube.com/watch?v=5kwz7ajxfyA
 10034:
+    name: The beauty of Lagrangian Mathematics
+    link: https://www.youtube.com/watch?v=ZP3jUyQLvPo
 10035:
+    name: Gentle Description of Vertex Algebra
+    link: https://www.youtube.com/watch?v=7j4YVIFmAXw
 10036:
+    name: A quarternion version of Euler's formula
+    link: https://www.youtube.com/watch?v=dvpAFWBVgy0
 10037:
+    name: The most interesting differential equation you have seen
+    link: https://www.youtube.com/watch?v=Nm0e52ZZqrM
 10038:
+    name: Calculus in a nutshell
+    link: https://www.youtube.com/watch?v=Kss13U-hvPk
 10039:
+    name: The virasoro algebra, an algebra for string theory
+    link: https://www.youtube.com/watch?v=u-umYsfju4w
 10040:
+    name: One of the most important algebras, Witt Algebra
+    link: https://www.youtube.com/watch?v=1MKTsHFE9aA
 10041:
+    name: String Art with Computer Graphics
+    link: https://www.youtube.com/watch?v=dLiSXcaBZmk
 10042:
+    name: ten interesting mathematics equations
+    link: https://www.youtube.com/watch?v=EkP1lbDsKd0
 10043:
+    name: Edward Witten, why the unreasonable effectiveness of mathematics
+    link: https://www.youtube.com/watch?v=1-Zl9o7I4Fo
 10044:
+    name: Dual numbers, cousin of complex numbers
+    link: https://www.youtube.com/watch?v=ceaNqdHdqtg
 10045:
+    name: Why pi is in the normal distribution, 3b1b
+    link: https://www.youtube.com/watch?v=cy8r7WSuT1I
 10046:
+    name: Converting multiple integrals to one
+    link: https://www.youtube.com/watch?v=jNpKKDekS6k
 10047:
+    name: Trig Functions visualised on unit circle
+    link: https://www.youtube.com/watch?v=Dsf6ADwJ66E
 10048:
+    name: History of natural logarithm
+    link: https://www.youtube.com/watch?v=habHK6wLkic
 10049:
+    title: Steven Strogatz on Calculus
+    links:
+        - name: Story of Calculus
+          link: https://www.youtube.com/watch?v=S1gXA4B8DL0
+        - name: Infinite Power of Calculus
+          link: https://www.youtube.com/watch?v=-V07utiWmRo
 10050:
+    name: Brachistochrone, 3b1b and Steven Strogatz
+    link: https://www.youtube.com/watch?v=Cld0p3a43fU
 10051:
+    name: Fractional Derivative
+    link: https://www.youtube.com/watch?v=A4sTAKN6yFA
 10052:
+    name: The many surprising connections in higher math
+    link: https://www.youtube.com/watch?v=6ywt_rhxJfY
 10053:
+    name: A Sensible Introduction to Category Theory
+    link: https://www.youtube.com/watch?v=yAi3XWCBkDo
 10054:
+    name: The Map of Mathematics
+    link: https://www.youtube.com/watch?v=OmJ-4B-mS-Y
 10055:
+    name: Advanced Engineering Mathematics, Professor Macaulay
+    link: https://www.youtube.com/playlist?list=PLwV-9DG53NDzJ32JwfCQLpbdK5Ys4bM4P
 10056:
+    name: Wavelets, a mathematical microscope
+    link: https://www.youtube.com/watch?v=jnxqHcObNK4
 10057:
+    name: Vector Calculus and PDE, A big picture
+    link: https://www.youtube.com/watch?v=Jt5R-Tm8cV8
 10058:
+    name: diffusion symmetry, new paradigm for math and physics
+    link: https://www.youtube.com/watch?v=wSWBk0LFvPc
 10059:
+    name: ten lessons before teaching differential equations
+    link: https://web.williams.edu/Mathematics/lg5/Rota.pdf
 10060:
+    name: Pade Approximans
+    link: https://www.youtube.com/watch?v=szMaPkJEMrw
 10061:
+    name: Philosophy of Mathematics and Frege
+    link: https://www.youtube.com/watch?v=ucPhfzCvKnE
 10062:
+    title: Polya on Guessing
+    links: 
+        - name: Polya Guessing
+          link: https://vimeo.com/48768091
+        - name: Let us teach guessing
+          link: https://www.youtube.com/watch?v=Pj4ZbkjJ9e0
 10063:
+    name: Learn Mathematics from start to finish
+    link: https://www.youtube.com/watch?v=pTnEG_WGd2Q
 10064:
+    name: Curves we dont learn in high school
+    link: https://www.youtube.com/watch?v=3izFMB91K_Q
 10065:
-10066:
+    name: Topology vs a topology - pbs infinite
+    link: https://www.youtube.com/watch?v=tdOaMOcxY7U
+10066: 
+    name: Jack Nathan, Introduction to Functional Analysis
+    link: https://www.youtube.com/playlist?list=PLSpInro6Ys2IHve6oN9h005zmwfLnOSp1
 10067:
+    name: introduction to Lebesgue integral - a horizontal integral
+    link: https://www.youtube.com/watch?v=LDNDTOVnKJk
 10068:
+    name: Riemann Integral vs Lebesgue Integral
+    link: https://www.youtube.com/watch?v=PGPZ0P1PJfw
 10069:
+    name: 3b1b Music and Measure Theory
+    link: https://www.youtube.com/watch?v=cyW5z-M2yzw
 10070:
+    name: Cantor Function, the devil's staircase
+    link: https://www.youtube.com/watch?v=dQXVn7pFsVI
 10071:
+    name: 3b1b Differential Equations , a tourist's guide
+    link: https://www.youtube.com/watch?v=p_di4Zn4wz4
 10072:
+    name: This is why you are learning differential equations
+    link: https://www.youtube.com/watch?v=ifbaAqfqpc4
 10073:
+    name: Chaos Equations, Simple Mathematical Art
+    link: https://www.youtube.com/watch?v=fDSIRXmnVvk
 10074:
+    name: How does your computer compute sin
+    link: https://www.youtube.com/watch?v=kkMt4lrJzs8
 10075:
+    name: Hitler learns complex analysis
+    link: https://www.youtube.com/watch?v=zkn_bRM1LOQ
 10076:
+    name: Greens Functions, Sixty Symbols
+    link: https://www.youtube.com/watch?v=ji-i6XCkgC0
 10077:
+    name: how do complex numbers apply to control systems
+    link: https://www.youtube.com/watch?v=8tiQl6T-inE
 10078:
+    name: complex numbers have more uses than you think
+    link: https://www.youtube.com/watch?v=4KlvI_uK9zs
 10079:
+    name: The fastest matrix multiplication algorithm
+    link: https://www.youtube.com/watch?v=sZxjuT1kUd0
 10080:
+    name: Teach me statistics in half an hour
+    link: https://www.youtube.com/watch?v=kyjlxsLW1Is
 10081:
+    name: Right way of thinking of derivatives and integrals via jacobian
+    link: https://www.youtube.com/watch?v=wCZ1VEmVjVo
 10082:
+    name: The Strang Decomposition
+    link: https://www.youtube.com/watch?v=NJKe2MQxa9k
 10083:
+    name: Applications of eigenvalues and eigenvectors
+    link: https://www.youtube.com/watch?v=i8FukKfMKCI
 10084:
+    name: Deeper meaning of matrix transpose
+    link: https://www.youtube.com/watch?v=g4ecBFmvAYU
 10085:
 10086:
 10087:
