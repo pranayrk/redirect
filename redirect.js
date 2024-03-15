@@ -36,7 +36,7 @@ async function RedirectTo(redirFull) {
                 }
                 const redirectTo = mapping[redir];
                 if(redirectTo instanceof String) {
-                    window.location.href = redirectTo;
+                    window.open(redirectTo, '_blank');
                     return;
                 }
                 if(redirectTo instanceof Array) {
@@ -66,7 +66,7 @@ async function RedirectTo(redirFull) {
                 if(redirectTo instanceof Object) {
                     replaceHTML = "";
                     if('link' in redirectTo) {
-                        window.location.href = redirectTo['link'];
+                        window.open(redirectTo['link'], '_blank');
                         return;
                     }
                     if('title' in redirectTo) {
