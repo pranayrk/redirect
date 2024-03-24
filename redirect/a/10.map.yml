@@ -302,20 +302,139 @@
     name: Can you diagonalize every matrix
     link: https://www.youtube.com/watch?v=L6w_N2CdLFE
 10096:
+    name: Quantum Fourier Convolutional Neural Networks, Shen and Liu
+    link: https://drive.google.com/file/d/1E4qQJR-JU6KieZIGMPEXcR_zoi6Omu7W/view?usp=sharing
 10097:
+    title: Quantum Machine Learning Books
+    links:
+        - name: Machine Learning with Quantum Computers - Francesco Petruccione, Maria Schuld
+          link: https://drive.google.com/file/d/1TCfwBZtCptj-Hh0VLv2PSvdb_A2g5UNa/view?usp=drive_link
+        - name: Quantum Machine Learning - DeGruyter
+          link: https://drive.google.com/file/d/1DQFZwu09--JWb1-UAt9tWvFqQFbMbNBE/view?usp=drive_link
+        - name: Concise Guide to Quantum Machine Learning - David Pastorello
+          link: https://drive.google.com/file/d/1ebfomtGLcX0vCf0efWD3VjxBP2mCfyN2/view?usp=drive_link
+        - name: Quantum Machine Learning and Optimization in Finance -  Jacquier, Kondratyev
+          link: https://drive.google.com/file/d/1XLN52QKvN76v86G-DYuQeL66yqpZyl-E/view?usp=drive_link
+        - name: Practical Guide To Quantum Machine Learning and Optimization - Combarro and Gonzales-Castillo
+          link: https://drive.google.com/file/d/1j3vm4ijqKAIB-_lYCKKILosm3CQ-HGPe/view?usp=drive_link
 10098:
+    name: Quantum Machine Learning - Keio University
+    link: https://www.youtube.com/watch?v=Lbndu5EIWvI
 10099:
+    name: Quantum Machine Learning Workshop Playlist - QuICS
+    link: https://www.youtube.com/playlist?list=PLUz_4vZOI0H1iGqlML2jX0pOGmh2YuHOW
 10100:
+    title: Quantum Computing Books
+    links:
+        - name: Quantum Computing: A Gentle Introduction, Eleanor G. Rieffel and Wolfgang H. Polak
+          link: https://drive.google.com/file/d/11I6w6WlGISlnUawouQzLZCT5r_DFQdpl/view?usp=drive_link
+        - name: Principles Of Quantum Computation And Information by Giuliano Benenti, Giuliano Strini, Giulio Casati 
+          link: https://drive.google.com/file/d/1rw_7z9fPHqUHMceGHSnojIlQQlHwmHi0/view?usp=drive_link
+        - name: Quantum Computing Explained, David McMahon
+          link: https://drive.google.com/file/d/1MfQkNf7F_SKvthIoWRu0Z6WXzWPf2e09/view?usp=drive_link
+        - name: An Introduction to Quantum Computing, Phillip Kaye, Raymond Laflamme, Michele Mosca
+          link: https://drive.google.com/file/d/1bThjMp9Ia796H3Zpwge5FpymBaKGsUfH/view?usp=drive_link
+        - name: Introduction to Quantum Computing, Ray LaPierre
+          link: https://drive.google.com/file/d/1fQSs4b_kv1JTULjYOag6nIUZh2O8XZY4/view?usp=drive_link
+        - name: Mathematics of Quantum Computing, Wolfgang Scherer
+          link: https://drive.google.com/file/d/1Q-YXEJgXcxaOXiG7aQpucIXx2752orCL/view?usp=drive_link
+        - name: Quantum Computation, Helmut Bez, Tony Croft
+          link: https://drive.google.com/file/d/13q01a5_762HS5-k01gNdbzUWhPYOHeLn/view?usp=drive_link
+        - name: Quantum Computation and Quantum Information, Michael A. Nielsen, Isaac L. Chuang
+          link: https://drive.google.com/file/d/19sczt6sHbE9Kdokkk6653lphdDkzTvHM/view?usp=drive_link
+        - name: An Introduction to Quantum Computing Algorithms, Arthur O. Pittenger
+          link: https://drive.google.com/file/d/1B3HScVBFhsVGjgIJtIo-cpvf5unQlpbb/view?usp=drive_link
+        - name: Quantum Computer Science, N. David Mermin, Cambridge University Press 2007
+          link: https://drive.google.com/file/d/110YqOICSQmQOrqHZC68iwz3zr8u316tZ/view?usp=drive_link
+        - name: Quantum Computing: An Applied Approach - Hidary
+          link: https://drive.google.com/file/d/1itsLK62K6EoZauyMlxrrghFMCrTSZn-G/view?usp=drive_link
+        - name: Classical and Quantum Computation by Kitaev, Shen and Vyalyi
+          link: https://drive.google.com/file/d/1nXKgPD0-GjEkJ_PQ6vsn5HHEACy2WBOT/view?usp=drive_link
+        - name: Introduction to Classical and Quantum Computing by Thomas Wong
+          link: https://drive.google.com/file/d/1CCZoKao3bLZak_A_RWvZq5nhcBhId1Bn/view?usp=drive_link
+        - name: Quantum Computers. Theory and Algorithms, Belal Ehsan Baaquie, Leong-Chuan Kwek
+          link: https://drive.google.com/file/d/114kE6DmQH2Gj-qCmlH4PNXzDu5nOTs5E/view?usp=drive_link
 10101:
+    title: Advanced Quantum Computing Books
+    links:
+        - name: The Functional Analysis of Quantum Information Theory written by Gupta, Mandayam and Sunder based on lectures by Effros, Paulsen, Pisier and Winter
+          link: https://drive.google.com/file/d/1MnuA8Q61ltqzK6uHwwXm_TwwVZf8cgRX/view?usp=drive_link
+        - name: Alice and Bob meet Banach by Aubrun and Szarek
+          link: https://drive.google.com/file/d/15-gpf4XmVcZrPZ7SJ2Efzt_lwfY6igw9/view?usp=drive_link
 10102:
+    name: Bad Honnef School on Quantum Computing
+    link: https://youtube.com/playlist?list=PLbBoaSCFITu5s-rivUi2okpaGj4VRtkZw&si=Q_Zl_XzwFn7TTnPl
 10103:
+    name: Maths of Quantum Computing Playlist
+    link: https://youtube.com/playlist?list=PL8ER5-vAoiHAWm1UcZsiauUGPlJChgNXC&si=q15vIqn83In5JHet
 10104:
+    name: Quantum Machine Learning, Curated Github Repo, Krishna Kumar Sekar
+    link: https://github.com/krishnakumarsekar/awesome-quantum-machine-learning
 10105:
+    title: Quantum Computing Lecture Notes
+    links:
+        - name: Peter Shor
+          link: https://math.mit.edu/~shor/435-LN/
+        - name: Ronald De Wolf
+          link: https://homepages.cwi.nl/~rdewolf/qcnotes.pdf
+        - name: Marius Junge (Operator spaces)
+          link: https://www.birs.ca/workshops/2010/10w5005/files/junge.pdf
+        - name: K.R. Parthasarathy
+          link: https://static.cse.iitk.ac.in/users/ppk/notes/krp.pdf
+        - name: David Mermin
+          link: http://www.lassp.cornell.edu/mermin/qcomp/CS483.html
+        - name: John Presskil
+          link: http://www.theory.caltech.edu/~preskill/ph229/
+        - name: Andrew Childs
+          link: http://www.cs.umd.edu/~amchilds/qa/qa.pdf
+        - name: Ryan O'Donnell, John Wright
+          link: https://www.cs.cmu.edu/~odonnell/quantum15/
+        - name: Brandao, Christandl, Walter and Harrow (Mathematics of Entanglement)
+          link: https://drive.google.com/file/d/1cDlfgP1u4v5xzjqmnu4O91oIteMR-TCT/view?usp=drive_link
+        - name: Vern I. Paulsen
+          link: https://pranayrk.github.io/redirect/?redirect=a10106
+        - name: John Watrous
+          link: https://cs.uwaterloo.ca/~watrous/QC-notes/
 10106:
+    title: Vern I. Paulsen Lecture Notes
+    links:
+        - name: Main Lecture Notes
+          link: https://drive.google.com/file/d/1Y4JUqm4S5d94oowVyyb_P3FdSup2_9XF/view?usp=drive_link
+        - name: Jason Crann, David Kribs, Vern I Paulsen (Functional Analysis for Quantum Information) Chapter 01
+          link: https://www.math.uwaterloo.ca/~vpaulsen/FAQIChapter1.pdf
+        - name: Jason Crann, David Kribs, Vern I Paulsen (Functional Analysis for Quantum Information) Chapter 02
+          link: https://www.math.uwaterloo.ca/~vpaulsen/FAQIChapter2.pdf
+        - name: Jason Crann, David Kribs, Vern I Paulsen (Functional Analysis for Quantum Information) Chapter 03
+          link: https://www.math.uwaterloo.ca/~vpaulsen/FAQIChapter3.pdf
+        - name: Entanglement and Non-Locality
+          link: https://www.math.uwaterloo.ca/~vpaulsen/EntanglementAndNonlocality_LectureNotes_7.pdf
 10107:
+    title: Quantum theory and functional analysis, Klaas Landsman
+    links:
+        - name: arxiv
+          link: https://arxiv.org/abs/1911.06630
+        - name: gdrive
+          link: https://drive.google.com/file/d/1kLyDVCEAi_p1yj2lyLcelTeLT7TC7kNm/view
 10108:
+    title: Operator structures in quantum information theory, Mary Beth Ruskai, Marius Junge, Patrick Hayden
+    links:
+        - name: Paper
+          link: https://www.birs.ca/workshops/2012/12w5084/report12w5084.pdf
+        - name: gdrive
+          link: https://drive.google.com/file/d/1F7yHHYqWMTB3eGn6Yz2GwYH2s6DC9qPY/view?usp=drive_link
 10109:
+    title: The Functional Analysis of Quantum Information Theory - Ved Prakash Gupta, Prabha Mandayam, V. S. Sunder
+    links:
+        - name: arxiv
+          link: https://arxiv.org/abs/1410.7188
+        - name: lecture notes
+          link: https://www.imsc.res.in/~sunder/faqit.html
+        - name: playlist
+          link: https://youtube.com/playlist?list=PLD3E479AB374A718F&si=-D2aKetVhpRYqvB_
+
 10110:
+    name: Quantum Country, Articles with Mnemonic Focus
+    link: https://quantum.country/
 10111:
 10112:
 10113:
