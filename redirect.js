@@ -15,9 +15,9 @@ async function RedirectTo(redirFull) {
     if (!redirFull) {
         return;
     }
-    let series = redirFull.substring(0, 1);
-    const redir = redirFull.substring(1,);
-    if(!series.match(/[a-zA-Z]/i)) {
+    let series = redirFull.substring(0, 2);
+    const redir = redirFull.substring(2,);
+    if(!series.match(/[a-zA-Z]{2}/i)) {
         return;
     }
     series = series.toLowerCase();
