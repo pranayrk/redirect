@@ -51,6 +51,8 @@
           link: https://drive.google.com/file/d/1CCZoKao3bLZak_A_RWvZq5nhcBhId1Bn/view?usp=drive_link
         - name: Quantum Computers. Theory and Algorithms, Belal Ehsan Baaquie, Leong-Chuan Kwek
           link: https://drive.google.com/file/d/114kE6DmQH2Gj-qCmlH4PNXzDu5nOTs5E/view?usp=drive_link
+        - name: A course in Quantum Computing, Micheal Loceff
+          link: https://drive.google.com/file/d/1Uu1-JCk_BTVTwCNONJQUOeIcYoT_1Bzc/view?usp=drive_link
 10006:
     title: Advanced Quantum Computing Books
     links:
@@ -139,7 +141,23 @@
     name: Quantum Algorithms for Deep Convolutional Neural Networks - Iordanis Kerenidis
     link: https://drive.google.com/file/d/1XQ8CCFYEM7PfApDeINGmkcKc5nBu44cl/view?usp=drivesdk
 10018:
+    name: SpinQ Gemini, Mini Quantum Computer
+    link: https://www.youtube.com/watch?v=dxRiNC8On88
 10019:
+    title: David Deutsch Podcasts
+    links: 
+        - name: The Deutsch Files 1
+          link: https://www.youtube.com/watch?v=NI1l94sT4oc 
+        - name: The Deutsch Files 2
+          link: https://www.youtube.com/watch?v=I6GNK6BR4E8
+        - name: The Deutsch Files 3
+          link: https://www.youtube.com/watch?v=fizPWAAo-lc
+        - name: What is Ultimate Reality
+          link: https://www.youtube.com/watch?v=GBc6vj5-wko
+        - name: Knowledge Creation and the Human Race, Part 1
+          link: https://www.youtube.com/watch?v=YyxepLfH1ZU
+        - name: Knowledge Creation and the Human Race, Part 2 
+          link: https://www.youtube.com/watch?v=aQfeYBa1MTk
 10020:
 10021:
 10022:
