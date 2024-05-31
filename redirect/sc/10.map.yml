@@ -1,306 +1,221 @@
-10001: 
-    name: Terence Tao, Machine Assisted Proof
-    link: https://youtube.com/watch?v=AayZuuDDKP0
-10002: 
-    name: Veritasium, Black Scholes Equation
-    link: https://www.youtube.com/watch?v=A5w-dEgIU1M
-10003:
-    name: Equally spacing points on a sphere
-    link: https://www.youtube.com/watch?v=c-6DV4ZyCdo
-10004:
-    name: Borcherds, Lectures on Lie Groups
-    link: https://www.youtube.com/playlist?list=PL8yHsr3EFj53RWBkiHKoOsTw-dGHAoJ-h
-10005:
-    name: Lie Theory for the Roboticist
-    link: https://www.youtube.com/watch?v=nHOcoIyJj2o
-10006:
-    name: Mathematics of Neural Networks
-    link: https://www.youtube.com/watch?v=b7NnMZPNIXA
-10007:
-    title: Symbolic Dynamics and Applications
-    links: 
-        - name: Introduction to Symbolic Dynamics
-          link: https://www.youtube.com/watch?v=ZHPJ_KIZ4vI
-        - name: Superposition, Sudoku, Wave Function Collapse
-          link: https://www.youtube.com/watch?v=2SuvO4Gi7uY
-        - name: Wave Function for Procedural Terrain
-          link: https://www.youtube.com/watch?v=20KHNA9jTsE
-        - name: Ant and Slime Simulation
-          link: https://www.youtube.com/watch?v=X-iSQQgOd1A
-        - name: Tiling, the Infinite Pattern that never repeats
-          link: https://www.youtube.com/watch?v=48sCx-wBs34&t
-10008:
-    name: Bifurcation Analysis of Nonlinear System of Differential Equations
-    link: https://www.youtube.com/watch?v=w2YPNC7O-O0
-10009:
-    name: Green's Functions Theory
-    link: https://www.youtube.com/watch?v=UJjlvVJHwhs
-10010:
-    name: WhatIsMath, Playlist on Differential Geometry
-    link: https://www.youtube.com/playlist?list=PLXo8Tdaw0czOWyRD-esa6mNajlPZnjHQs
-10011:
-    name: Cannon-Thurston maps, naturally occurring space filling curves
-    link: https://www.youtube.com/watch?v=FpeeFcK3lTk
-10012:
-    name: What is Lie Theory, A big picture
-    link: https://www.youtube.com/watch?v=ZRca3Ggpy_g
-10013: 
-    name: Why Compactness matters
-    link: https://www.youtube.com/watch?v=td7Nz9ATyWY
-10014:
-    name: Ramanujan's Master Theorem and Fresnel Integrals
-    link: https://www.youtube.com/watch?v=oT20UwCQ-Vg
-10015:
-    name: Art of Linear Programming
-    link: https://www.youtube.com/watch?v=E72DWgKP_1Y
-10016:
-    name: How the axiom of choice gives sizeless sets
-    link: https://www.youtube.com/watch?v=hcRZadc5KpI
-10017:
-    name: Queuing Theory and Poisson Process
-    link: https://www.youtube.com/watch?v=rBIQmwaoZfs
-10018:
-    name: Category Theory for Neuroscience 
-    link: https://www.youtube.com/watch?v=4GJ4UQZvCNM
-10019:
-    name: Proof for Basel Problem, Apostol
-    link: https://www.youtube.com/watch?v=RNHULHp03FU
-10020:
-    name: Generating Primes through a recurrence relation
-    link: https://www.youtube.com/watch?v=OpaKpzMFOpg
-10021:
-    name: Turning a sphere inside out
-    link: https://www.youtube.com/watch?v=OI-To1eUtuU
-10022:
-    name: Introduction to Geometric Algebra
-    link: https://www.youtube.com/watch?v=60z_hpEAtD8
-10023:
-    name: Intuition behind Gauss Divergence Theorem
-    link: https://www.youtube.com/watch?v=zZqxbwl3Dno
-10024:
-    name: How Maxwells Equations led to Vector Analysis
-    link: https://www.youtube.com/watch?v=M12CJIuX8D4
-10025:
-    name: How to unify Logic and Arithmetic 
-    link: https://www.youtube.com/watch?v=niqqm1DRTkE
-10026:
-    name: Transforming four Maxwells equations to two
-    link: https://www.youtube.com/watch?v=J7-vJrRxR40
-10027:
-    name: What haunts statisticians at night
-    link: https://www.youtube.com/watch?v=SGGLkrJa9_w
-10028:
-    name: Calculus of Inverse Functions
-    link: https://www.youtube.com/watch?v=4vbXadolbOE
-10029:
-    name: Quick and Easy Voting for normal people
-    link: https://www.youtube.com/watch?v=orybDrUj4vA
-10030:
-    name: The Beauty of Graph Theory
-    link: https://www.youtube.com/watch?v=oXcCAAEDte0
-10031:
-    name: The most important skill in statistics
-    link: https://www.youtube.com/watch?v=r7cn3WS5x9c
-10032:
-    name: How to study math like professional mathematicians, remembering theorems
-    link: https://www.youtube.com/watch?v=8TOiO5YlRUw
-10033:
-    name: All of Calculus 3 in 8 mins
-    link: https://www.youtube.com/watch?v=5kwz7ajxfyA
-10034:
-    name: The beauty of Lagrangian Mathematics
-    link: https://www.youtube.com/watch?v=ZP3jUyQLvPo
-10035:
-    name: Gentle Description of Vertex Algebra
-    link: https://www.youtube.com/watch?v=7j4YVIFmAXw
-10036:
-    name: A quarternion version of Euler's formula
-    link: https://www.youtube.com/watch?v=dvpAFWBVgy0
-10037:
-    name: The most interesting differential equation you have seen
-    link: https://www.youtube.com/watch?v=Nm0e52ZZqrM
-10038:
-    name: Calculus in a nutshell
-    link: https://www.youtube.com/watch?v=Kss13U-hvPk
-10039:
-    name: The virasoro algebra, an algebra for string theory
-    link: https://www.youtube.com/watch?v=u-umYsfju4w
-10040:
-    name: One of the most important algebras, Witt Algebra
-    link: https://www.youtube.com/watch?v=1MKTsHFE9aA
-10041:
-    name: String Art with Computer Graphics
-    link: https://www.youtube.com/watch?v=dLiSXcaBZmk
-10042:
-    name: ten interesting mathematics equations
-    link: https://www.youtube.com/watch?v=EkP1lbDsKd0
-10043:
-    name: Edward Witten, why the unreasonable effectiveness of mathematics
-    link: https://www.youtube.com/watch?v=1-Zl9o7I4Fo
-10044:
-    name: Dual numbers, cousin of complex numbers
-    link: https://www.youtube.com/watch?v=ceaNqdHdqtg
-10045:
-    name: Why pi is in the normal distribution, 3b1b
-    link: https://www.youtube.com/watch?v=cy8r7WSuT1I
-10046:
-    name: Converting multiple integrals to one
-    link: https://www.youtube.com/watch?v=jNpKKDekS6k
-10047:
-    name: Trig Functions visualised on unit circle
-    link: https://www.youtube.com/watch?v=Dsf6ADwJ66E
-10048:
-    name: History of natural logarithm
-    link: https://www.youtube.com/watch?v=habHK6wLkic
-10049:
-    title: Steven Strogatz on Calculus
+10001:
+    name: Quantum Fourier Convolutional Neural Networks, Shen and Liu
+    link: https://drive.google.com/file/d/1E4qQJR-JU6KieZIGMPEXcR_zoi6Omu7W/view?usp=sharing
+10002:
+    title: Quantum Machine Learning Books
     links:
-        - name: Story of Calculus
-          link: https://www.youtube.com/watch?v=S1gXA4B8DL0
-        - name: Infinite Power of Calculus
-          link: https://www.youtube.com/watch?v=-V07utiWmRo
+        - name: Machine Learning with Quantum Computers - Francesco Petruccione, Maria Schuld
+          link: https://drive.google.com/file/d/1TCfwBZtCptj-Hh0VLv2PSvdb_A2g5UNa/view?usp=drive_link
+        - name: Quantum Machine Learning - DeGruyter
+          link: https://drive.google.com/file/d/1DQFZwu09--JWb1-UAt9tWvFqQFbMbNBE/view?usp=drive_link
+        - name: Concise Guide to Quantum Machine Learning - David Pastorello
+          link: https://drive.google.com/file/d/1ebfomtGLcX0vCf0efWD3VjxBP2mCfyN2/view?usp=drive_link
+        - name: Quantum Machine Learning and Optimization in Finance -  Jacquier, Kondratyev
+          link: https://drive.google.com/file/d/1XLN52QKvN76v86G-DYuQeL66yqpZyl-E/view?usp=drive_link
+        - name: Practical Guide To Quantum Machine Learning and Optimization - Combarro and Gonzales-Castillo
+          link: https://drive.google.com/file/d/1j3vm4ijqKAIB-_lYCKKILosm3CQ-HGPe/view?usp=drive_link
+10003:
+    name: Quantum Machine Learning - Keio University
+    link: https://www.youtube.com/watch?v=Lbndu5EIWvI
+10004:
+    name: Quantum Machine Learning Workshop Playlist - QuICS
+    link: https://www.youtube.com/playlist?list=PLUz_4vZOI0H1iGqlML2jX0pOGmh2YuHOW
+10005:
+    title: Quantum Computing Books
+    links:
+        - name: Quantum Computing: A Gentle Introduction, Eleanor G. Rieffel and Wolfgang H. Polak
+          link: https://drive.google.com/file/d/11I6w6WlGISlnUawouQzLZCT5r_DFQdpl/view?usp=drive_link
+        - name: Principles Of Quantum Computation And Information by Giuliano Benenti, Giuliano Strini, Giulio Casati 
+          link: https://drive.google.com/file/d/1rw_7z9fPHqUHMceGHSnojIlQQlHwmHi0/view?usp=drive_link
+        - name: Quantum Computing Explained, David McMahon
+          link: https://drive.google.com/file/d/1MfQkNf7F_SKvthIoWRu0Z6WXzWPf2e09/view?usp=drive_link
+        - name: An Introduction to Quantum Computing, Phillip Kaye, Raymond Laflamme, Michele Mosca
+          link: https://drive.google.com/file/d/1bThjMp9Ia796H3Zpwge5FpymBaKGsUfH/view?usp=drive_link
+        - name: Introduction to Quantum Computing, Ray LaPierre
+          link: https://drive.google.com/file/d/1fQSs4b_kv1JTULjYOag6nIUZh2O8XZY4/view?usp=drive_link
+        - name: Mathematics of Quantum Computing, Wolfgang Scherer
+          link: https://drive.google.com/file/d/1Q-YXEJgXcxaOXiG7aQpucIXx2752orCL/view?usp=drive_link
+        - name: Quantum Computation, Helmut Bez, Tony Croft
+          link: https://drive.google.com/file/d/13q01a5_762HS5-k01gNdbzUWhPYOHeLn/view?usp=drive_link
+        - name: Quantum Computation and Quantum Information, Michael A. Nielsen, Isaac L. Chuang
+          link: https://drive.google.com/file/d/19sczt6sHbE9Kdokkk6653lphdDkzTvHM/view?usp=drive_link
+        - name: An Introduction to Quantum Computing Algorithms, Arthur O. Pittenger
+          link: https://drive.google.com/file/d/1B3HScVBFhsVGjgIJtIo-cpvf5unQlpbb/view?usp=drive_link
+        - name: Quantum Computer Science, N. David Mermin, Cambridge University Press 2007
+          link: https://drive.google.com/file/d/110YqOICSQmQOrqHZC68iwz3zr8u316tZ/view?usp=drive_link
+        - name: Quantum Computing: An Applied Approach - Hidary
+          link: https://drive.google.com/file/d/1itsLK62K6EoZauyMlxrrghFMCrTSZn-G/view?usp=drive_link
+        - name: Classical and Quantum Computation by Kitaev, Shen and Vyalyi
+          link: https://drive.google.com/file/d/1nXKgPD0-GjEkJ_PQ6vsn5HHEACy2WBOT/view?usp=drive_link
+        - name: Introduction to Classical and Quantum Computing by Thomas Wong
+          link: https://drive.google.com/file/d/1CCZoKao3bLZak_A_RWvZq5nhcBhId1Bn/view?usp=drive_link
+        - name: Quantum Computers. Theory and Algorithms, Belal Ehsan Baaquie, Leong-Chuan Kwek
+          link: https://drive.google.com/file/d/114kE6DmQH2Gj-qCmlH4PNXzDu5nOTs5E/view?usp=drive_link
+10006:
+    title: Advanced Quantum Computing Books
+    links:
+        - name: The Functional Analysis of Quantum Information Theory written by Gupta, Mandayam and Sunder based on lectures by Effros, Paulsen, Pisier and Winter
+          link: https://drive.google.com/file/d/1MnuA8Q61ltqzK6uHwwXm_TwwVZf8cgRX/view?usp=drive_link
+        - name: Alice and Bob meet Banach by Aubrun and Szarek
+          link: https://drive.google.com/file/d/15-gpf4XmVcZrPZ7SJ2Efzt_lwfY6igw9/view?usp=drive_link
+10007:
+    name: Bad Honnef School on Quantum Computing
+    link: https://youtube.com/playlist?list=PLbBoaSCFITu5s-rivUi2okpaGj4VRtkZw&si=Q_Zl_XzwFn7TTnPl
+10008:
+    name: Maths of Quantum Computing Playlist
+    link: https://youtube.com/playlist?list=PL8ER5-vAoiHAWm1UcZsiauUGPlJChgNXC&si=q15vIqn83In5JHet
+10009:
+    name: Quantum Machine Learning, Curated Github Repo, Krishna Kumar Sekar
+    link: https://github.com/krishnakumarsekar/awesome-quantum-machine-learning
+10010:
+    title: Quantum Computing Lecture Notes
+    links:
+        - name: Peter Shor
+          link: https://math.mit.edu/~shor/435-LN/
+        - name: Ronald De Wolf
+          link: https://homepages.cwi.nl/~rdewolf/qcnotes.pdf
+        - name: Marius Junge (Operator spaces)
+          link: https://www.birs.ca/workshops/2010/10w5005/files/junge.pdf
+        - name: K.R. Parthasarathy
+          link: https://static.cse.iitk.ac.in/users/ppk/notes/krp.pdf
+        - name: David Mermin
+          link: http://www.lassp.cornell.edu/mermin/qcomp/CS483.html
+        - name: John Presskil
+          link: http://www.theory.caltech.edu/~preskill/ph229/
+        - name: Andrew Childs
+          link: http://www.cs.umd.edu/~amchilds/qa/qa.pdf
+        - name: Ryan O'Donnell, John Wright
+          link: https://www.cs.cmu.edu/~odonnell/quantum15/
+        - name: Brandao, Christandl, Walter and Harrow (Mathematics of Entanglement)
+          link: https://drive.google.com/file/d/1cDlfgP1u4v5xzjqmnu4O91oIteMR-TCT/view?usp=drive_link
+        - name: Vern I. Paulsen
+          link: https://pranayrk.github.io/redirect/?redirect=a10106
+        - name: John Watrous
+          link: https://cs.uwaterloo.ca/~watrous/QC-notes/
+10011:
+    title: Vern I. Paulsen Lecture Notes
+    links:
+        - name: Main Lecture Notes
+          link: https://drive.google.com/file/d/1Y4JUqm4S5d94oowVyyb_P3FdSup2_9XF/view?usp=drive_link
+        - name: Jason Crann, David Kribs, Vern I Paulsen (Functional Analysis for Quantum Information) Chapter 01
+          link: https://www.math.uwaterloo.ca/~vpaulsen/FAQIChapter1.pdf
+        - name: Jason Crann, David Kribs, Vern I Paulsen (Functional Analysis for Quantum Information) Chapter 02
+          link: https://www.math.uwaterloo.ca/~vpaulsen/FAQIChapter2.pdf
+        - name: Jason Crann, David Kribs, Vern I Paulsen (Functional Analysis for Quantum Information) Chapter 03
+          link: https://www.math.uwaterloo.ca/~vpaulsen/FAQIChapter3.pdf
+        - name: Entanglement and Non-Locality
+          link: https://www.math.uwaterloo.ca/~vpaulsen/EntanglementAndNonlocality_LectureNotes_7.pdf
+10012:
+    title: Quantum theory and functional analysis, Klaas Landsman
+    links:
+        - name: arxiv
+          link: https://arxiv.org/abs/1911.06630
+        - name: gdrive
+          link: https://drive.google.com/file/d/1kLyDVCEAi_p1yj2lyLcelTeLT7TC7kNm/view
+10013:
+    title: Operator structures in quantum information theory, Mary Beth Ruskai, Marius Junge, Patrick Hayden
+    links:
+        - name: Paper
+          link: https://www.birs.ca/workshops/2012/12w5084/report12w5084.pdf
+        - name: gdrive
+          link: https://drive.google.com/file/d/1F7yHHYqWMTB3eGn6Yz2GwYH2s6DC9qPY/view?usp=drive_link
+10014:
+    title: The Functional Analysis of Quantum Information Theory - Ved Prakash Gupta, Prabha Mandayam, V. S. Sunder
+    links:
+        - name: arxiv
+          link: https://arxiv.org/abs/1410.7188
+        - name: lecture notes
+          link: https://www.imsc.res.in/~sunder/faqit.html
+        - name: playlist
+          link: https://youtube.com/playlist?list=PLD3E479AB374A718F&si=-D2aKetVhpRYqvB_
+
+10015:
+    name: Quantum Country, Articles with Mnemonic Focus
+    link: https://quantum.country/
+10016:
+    name: Quantum Convolution and Quantum Correlation Algorithms Are Physically Impossible - Chris Lomont
+    link: https://drive.google.com/file/d/1XMXfijHTF5xzY-D90zFcbq_T8cmVHHd4/view?usp=drivesdk
+10017:
+    name: Quantum Algorithms for Deep Convolutional Neural Networks - Iordanis Kerenidis
+    link: https://drive.google.com/file/d/1XQ8CCFYEM7PfApDeINGmkcKc5nBu44cl/view?usp=drivesdk
+10018:
+10019:
+10020:
+10021:
+10022:
+10023:
+10024:
+10025:
+10026:
+10027:
+10028:
+10029:
+10030:
+10031:
+10032:
+10033:
+10034:
+10035:
+10036:
+10037:
+10038:
+10039:
+10040:
+10041:
+10042:
+10043:
+10044:
+10045:
+10046:
+10047:
+10048:
+10049:
 10050:
-    name: Brachistochrone, 3b1b and Steven Strogatz
-    link: https://www.youtube.com/watch?v=Cld0p3a43fU
 10051:
-    name: Fractional Derivative
-    link: https://www.youtube.com/watch?v=A4sTAKN6yFA
 10052:
-    name: The many surprising connections in higher math
-    link: https://www.youtube.com/watch?v=6ywt_rhxJfY
 10053:
-    name: A Sensible Introduction to Category Theory
-    link: https://www.youtube.com/watch?v=yAi3XWCBkDo
 10054:
-    name: The Map of Mathematics
-    link: https://www.youtube.com/watch?v=OmJ-4B-mS-Y
 10055:
-    name: Advanced Engineering Mathematics, Professor Macaulay
-    link: https://www.youtube.com/playlist?list=PLwV-9DG53NDzJ32JwfCQLpbdK5Ys4bM4P
 10056:
-    name: Wavelets, a mathematical microscope
-    link: https://www.youtube.com/watch?v=jnxqHcObNK4
 10057:
-    name: Vector Calculus and PDE, A big picture
-    link: https://www.youtube.com/watch?v=Jt5R-Tm8cV8
 10058:
-    name: diffusion symmetry, new paradigm for math and physics
-    link: https://www.youtube.com/watch?v=wSWBk0LFvPc
 10059:
-    name: ten lessons before teaching differential equations
-    link: https://web.williams.edu/Mathematics/lg5/Rota.pdf
 10060:
-    name: Pade Approximans
-    link: https://www.youtube.com/watch?v=szMaPkJEMrw
 10061:
-    name: Philosophy of Mathematics and Frege
-    link: https://www.youtube.com/watch?v=ucPhfzCvKnE
 10062:
-    title: Polya on Guessing
-    links: 
-        - name: Polya Guessing
-          link: https://vimeo.com/48768091
-        - name: Let us teach guessing
-          link: https://www.youtube.com/watch?v=Pj4ZbkjJ9e0
 10063:
-    name: Learn Mathematics from start to finish
-    link: https://www.youtube.com/watch?v=pTnEG_WGd2Q
 10064:
-    name: Curves we dont learn in high school
-    link: https://www.youtube.com/watch?v=3izFMB91K_Q
 10065:
-    name: Topology vs a topology - pbs infinite
-    link: https://www.youtube.com/watch?v=tdOaMOcxY7U
-10066: 
-    name: Jack Nathan, Introduction to Functional Analysis
-    link: https://www.youtube.com/playlist?list=PLSpInro6Ys2IHve6oN9h005zmwfLnOSp1
+10066:
 10067:
-    name: introduction to Lebesgue integral - a horizontal integral
-    link: https://www.youtube.com/watch?v=LDNDTOVnKJk
 10068:
-    name: Riemann Integral vs Lebesgue Integral
-    link: https://www.youtube.com/watch?v=PGPZ0P1PJfw
 10069:
-    name: 3b1b Music and Measure Theory
-    link: https://www.youtube.com/watch?v=cyW5z-M2yzw
 10070:
-    name: Cantor Function, the devil's staircase
-    link: https://www.youtube.com/watch?v=dQXVn7pFsVI
 10071:
-    name: 3b1b Differential Equations , a tourist's guide
-    link: https://www.youtube.com/watch?v=p_di4Zn4wz4
 10072:
-    name: This is why you are learning differential equations
-    link: https://www.youtube.com/watch?v=ifbaAqfqpc4
 10073:
-    name: Chaos Equations, Simple Mathematical Art
-    link: https://www.youtube.com/watch?v=fDSIRXmnVvk
 10074:
-    name: How does your computer compute sin
-    link: https://www.youtube.com/watch?v=kkMt4lrJzs8
 10075:
-    name: Hitler learns complex analysis
-    link: https://www.youtube.com/watch?v=zkn_bRM1LOQ
 10076:
-    name: Greens Functions, Sixty Symbols
-    link: https://www.youtube.com/watch?v=ji-i6XCkgC0
 10077:
-    name: how do complex numbers apply to control systems
-    link: https://www.youtube.com/watch?v=8tiQl6T-inE
 10078:
-    name: complex numbers have more uses than you think
-    link: https://www.youtube.com/watch?v=4KlvI_uK9zs
 10079:
-    name: The fastest matrix multiplication algorithm
-    link: https://www.youtube.com/watch?v=sZxjuT1kUd0
 10080:
-    name: Teach me statistics in half an hour
-    link: https://www.youtube.com/watch?v=kyjlxsLW1Is
 10081:
-    name: Right way of thinking of derivatives and integrals via jacobian
-    link: https://www.youtube.com/watch?v=wCZ1VEmVjVo
 10082:
-    name: The Strang Decomposition
-    link: https://www.youtube.com/watch?v=NJKe2MQxa9k
 10083:
-    name: Applications of eigenvalues and eigenvectors
-    link: https://www.youtube.com/watch?v=i8FukKfMKCI
 10084:
-    name: Deeper meaning of matrix transpose
-    link: https://www.youtube.com/watch?v=g4ecBFmvAYU
 10085:
-    name: The strange case of umbral calculus
-    link: https://www.youtube.com/watch?v=ytZkmV-7EbM
 10086:
-    name: Researchers use group theory to speed up algorithms
-    link: https://www.youtube.com/watch?v=KufsL2VgELo
 10087:
-    name: What does it mean to take a complex derivative
-    link: https://www.youtube.com/watch?v=0CHZMY02Dhk
 10088:
-    name: Maths pedagogical curse, 3b1b
-    link: https://www.youtube.com/watch?v=UOuxo6SA8Uc
 10089:
-    name: Everything you need to know about topology
-    link: https://www.youtube.com/watch?v=6Kt0gW3_kio
 10090:
-    name: Differential Geometry, the Gauss and Weingarten maps
-    link: https://www.youtube.com/watch?v=56bgWvf3hyM
 10091:
-    name: The real meaning of trace of a matrix
-    link: https://www.youtube.com/watch?v=B2PJh2K-jdU
 10092:
-    name: three ways to learn integrals
-    link: https://www.youtube.com/watch?v=MwVBzE7Z5gw
 10093:
-    name: Why is the determinant like that
-    link: https://www.youtube.com/watch?v=Sv7VseMsOQc
 10094:
-    name: matrix transpose and the four fundamental subspaces
-    link: https://www.youtube.com/watch?v=yfj8uMwAgrI
 10095:
-    name: Can you diagonalize every matrix
-    link: https://www.youtube.com/watch?v=L6w_N2CdLFE
 10096:
 10097:
 10098:
